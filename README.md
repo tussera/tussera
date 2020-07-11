@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Guilherme and I am Software a Engineer :computer: based in Amsterdam :bike:
+My name is Guilherme and I am a Software Engineer :computer: based in Amsterdam :bike:
 
 ### My expertises
 
