@@ -10,6 +10,8 @@ My name is Guilherme and I am Software a Engineer :computer: based in Amsterdam 
 
 🌱 I’m currently learning Kubernetes :book:
 
+![counter](https://en8bpbez36f7k9i.m.pipedream.net)
+
 <!--
 **tussera/tussera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
