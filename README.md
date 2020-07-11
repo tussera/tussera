@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Guilherme and I am Software a Engineer :computer: based in Amsterdam :bike:
+
+### My expertises
+
+- Back-end: [JAVA]
+- Front-end: [HTML5, CSS3 and Javascript]
+- Frameworks: [Spring, Bootstrap, Materialize, JQuery and React]
+
+🌱 I’m currently learning Kubernetes :book:
 
 <!--
 **tussera/tussera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
