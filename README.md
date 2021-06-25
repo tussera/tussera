@@ -4,7 +4,7 @@ My name is Guilherme and I am a Software Engineer :computer: based in Amsterdam 
 
 ### My expertises
 
-- Back-end: [JAVA, Spring, Spring Boot, JPA, Hibernate]
+- Back-end: [JAVA, Kotlin, Spring, Spring Boot, JPA, Hibernate]
 - Dev: [Docker, K8s, GCP and AWS]
 - Front-end: [HTML5, CSS3, Javascript and React]
 
