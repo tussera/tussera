@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-My name is Guilherme and I am a Software Engineer :computer: based in Amsterdam :bike:
+My name is Guilherme and I am a Software Engineer :computer: based in Den Haag - The Netherlands :bike:
 
 ### My expertises
 
-- Back-end: [JAVA, Kotlin, Spring, Spring Boot, JPA, Hibernate]
+- Back-end: [JAVA, Kotlin, Spring, Spring Boot, Microservices, Kafka, RabbitMQ, Gradle]
 - Dev: [Docker, K8s, GCP and AWS]
-- Front-end: [HTML5, CSS3, Javascript and React]
 
 ![counter](https://en8bpbez36f7k9i.m.pipedream.net)
 
